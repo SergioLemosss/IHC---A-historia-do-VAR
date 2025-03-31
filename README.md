@@ -9,44 +9,55 @@
 ## Anos 2000 – Primeiras Discussões
 
 **2005** – O presidente da FIFA, Joseph Blatter, rejeita o uso da tecnologia no futebol, alegando que o esporte deve permanecer "humano".
+![Diagrama do VAR](ibagens/image11.png)
 
 ## Anos 2010 – Primeiros Testes e Implementação Inicial
 
 **2010** – Polêmicas na Copa do Mundo (como o gol não validado de Frank Lampard contra a Alemanha) reacendem o debate sobre o uso da tecnologia no futebol.
 
+![Diagrama do VAR](ibagens/image10.png)
+
 **2012** – FIFA aprova a tecnologia da linha do gol (Goal-Line Technology, GLT), usada para determinar se a bola cruzou a linha do gol.
 
 **2014** – Primeira Copa do Mundo a utilizar a tecnologia da linha do gol.
+![Diagrama do VAR](ibagens/image7.png)
 
 ## 2016 – Primeiros Testes do VAR
 
 **Março de 2016** – A FIFA começa a testar o VAR em jogos simulados.
+![Diagrama do VAR](ibagens/image3.png)
 
 **Agosto de 2016** – O VAR é testado pela primeira vez em um jogo oficial nos Estados Unidos, durante um amistoso entre New York Red Bulls e Orlando City.
 
 **Dezembro de 2016** – O Mundial de Clubes da FIFA usa o VAR pela primeira vez em um torneio internacional.
+![Diagrama do VAR](ibagens/image4.png)
 
 ## 2017 – Primeiras Implementações Oficiais
 
 **2017** – A Bundesliga (Alemanha) e a Serie A (Itália) anunciam a adoção do VAR para a temporada seguinte.
+![Diagrama do VAR](ibagens/image1.png)
 
 **Junho de 2017** – VAR é utilizado na Copa das Confederações da FIFA.
+![Diagrama do VAR](ibagens/image2.png)
 
 ### 2017 – Final do Campeonato Pernambucano
 
 **2017** – A tecnologia do árbitro assistente de vídeo (VAR) foi usada pela primeira vez no Brasil na final do Campeonato Pernambucano de 2017, entre Salgueiro e Sport.
+![Diagrama do VAR](ibagens/image8.png)
 
 ## 2018 – Expansão Global e Copa do Mundo
 
 **Março de 2018** – O International Football Association Board (IFAB) oficializa o VAR como parte das regras do futebol.
 
 **Junho de 2018** – Primeira Copa do Mundo da FIFA com VAR, na Rússia. O sistema é usado em todos os jogos do torneio.
+![Diagrama do VAR](ibagens/image9.png)
 
 **Final da Copa de 2018** – O VAR é usado para marcar um pênalti para a França contra a Croácia, ajudando na vitória francesa por 4 a 2.
 
 ## 2019 – Implementação em Mais Ligas
 
 **2019** – O VAR passa a ser usado na Premier League (Inglaterra) e na La Liga (Espanha).
+![Diagrama do VAR](ibagens/image5.png)
 
 **Copa América 2019** – O VAR é utilizado no torneio da CONMEBOL.
 
@@ -57,6 +68,7 @@
 **2021** – UEFA implementa o VAR nas Eliminatórias para a Copa do Mundo do Catar.
 
 **2022** – Introdução do VAR semiautomático na Copa do Mundo do Catar para decisões de impedimento mais rápidas e precisas.
+![Diagrama do VAR](ibagens/image9.png)
 
 ## Futuro do VAR
 

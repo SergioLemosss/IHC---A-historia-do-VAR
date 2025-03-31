@@ -1,3 +1,9 @@
+# Alunos:
+- Geraldo Pereira de Castro Júnior
+- Matheus .
+- Sergio .
+- Claúdio .
+
 # Linha do Tempo do VAR no Futebol
 
 ## Anos 2000 – Primeiras Discussões

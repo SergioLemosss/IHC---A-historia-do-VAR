@@ -4,7 +4,7 @@
 - Sergio .
 - Claúdio .
 
-## [Aqui vai ver a trajetoria pela url do html](./)
+## [Acesse aqui o site com a linha do tempo](https://htmlpreview.github.io/?https://github.com/BEARaldo/IHC---A-historia-do-VAR/blob/main/AboutVar.com.html)
 # Linha do Tempo do VAR no Futebol
 
 ## Anos 2000 – Primeiras Discussões
